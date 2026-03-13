@@ -1,4 +1,4 @@
-![Flutter Banner](https://github.com/ShahzaibAliofficial/ShahzaibAliofficial/blob/main/Github%20banner.png)
+![Flutter Banner](https://github.com/ShahzaibAliofficial/ShahzaibAliofficial/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Shahzaib Ali</h1>
 <h3 align="center">A passionate Flutter App Developer from Pakistan | Building beautiful & responsive mobile apps</h3>
