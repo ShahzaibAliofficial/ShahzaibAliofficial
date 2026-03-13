@@ -35,7 +35,7 @@ I’m continuously learning and experimenting with **modern mobile technologies,
 ### 📫 Contact Me
 - Email: **shazaibaliofficial2@gmail.com**  
 - Mobile: **+92 334-3963103**  
-- LinkedIn: [Shahzaib Ali]([https://linkedin.com/in/shahzaib-ali-](https://www.linkedin.com/in/shahzaibaliofficial2/)  
+- LinkedIn: [Shahzaib Ali]([https://linkedin.com/in/shahzaib-ali-](https://www.linkedin.com/in/shahzaibaliofficial2/))
 - GitHub: [ShahzaibAliofficial](https://github.com/ShahzaibAliofficial)
 
 ---
